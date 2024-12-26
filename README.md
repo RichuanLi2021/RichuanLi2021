@@ -2,12 +2,12 @@
 
 - 🧑‍🎓 Fourth-year Applied Computer Science Student at Dalhousie University
 - 📍 Halifax NS Canada
-- 🏋️ I am workout man: around 5 times a week
+- 🏋️ I am a workout man: around 5 times a week
 - 💻 I am a big fan of coding: Web App Development, Network Security, and LLMs
-- 📹 I am a seasonsed Photographer with over 7 years experiences in landscaping and portrait.
+- 📹 I am a seasoned Photographer with over 7 years of experience in landscaping and portraits.
 
 
-## My Tech Stack are as follows
+## My Tech Stack is as follows
 #### DevOps
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express.js-ivory?style=flat-square&logo=express&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
