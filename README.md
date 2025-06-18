@@ -1,9 +1,9 @@
 ## This is about me (BlueWings)
 
-- 🧑‍🎓 Fourth-year Applied Computer Science Student at Dalhousie University
-- 📍 Halifax NS Canada
+- 🧑‍🎓 Graduated from Dalhousie University and majored in Computer Science.
+- 📍 Base in Halifax NS, Canada
 - 🏋️ I am a workout man: around 5 times a week
-- 💻 I am a big fan of coding: Web App Development, Network Security, and LLMs
+- 💻 I am a big fan of coding: Web App Development, Network Security, and Generative AI
 - 📹 I am a seasoned Photographer with over 7 years of experience in landscaping and portraits.
 
 
@@ -21,8 +21,7 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/-Express.js-ivory?style=flat-square&logo=express&logoColor=black)
 ![ReactJS](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
+
 
 #### APIs, Databases & Tools
 ![REST](https://img.shields.io/badge/REST_API-991111?style=flat-square)
