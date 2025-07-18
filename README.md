@@ -1,9 +1,9 @@
 ## This is about me (BlueWings)
 
 - 🧑‍🎓 Graduated from Dalhousie University and majored in Computer Science.
-- 📍 Base in Halifax NS, Canada
-- 🏋️ I am a workout man: around 5 times a week
-- 💻 I am a big fan of coding: Web App Development, Network Security, and Generative AI
+- 📍 Base in Halifax NS, Canada.
+- 🏋️ Gym guy.
+- 💻 I am a big fan of coding: Full Stack Web App Development and Generative AI.
 - 📹 I am a seasoned Photographer with over 7 years of experience in landscaping and portraits.
 
 
